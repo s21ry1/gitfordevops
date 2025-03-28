@@ -3,3 +3,5 @@ clear
 git add.
 git status
 git commit -m "coment"
+git remote add url
+git remote set-url https:// token@github.com/url---
