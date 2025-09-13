@@ -5,3 +5,6 @@ git status
 git commit -m "coment"
 git remote add url
 git remote set-url https:// token@github.com/url---
+git checkout -b test
+git add .
+git commit -m "created branch test"
